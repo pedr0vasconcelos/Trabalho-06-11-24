@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+G:\Meu Drive\Documentos\Faculdade\2024.2\POO\Trabalho para dia 06.11.24\.metadata\.plugins\org.eclipse.jdt.core
+3545569736.index
+1865797976.index
+3500564619.index
